@@ -36,10 +36,10 @@
 |------|-------------|
 | `22.cpp` | Sum of first N natural numbers |
 | `23.cpp` | Sum of first N even numbers |
-| `24.cpp` | Sum of first N odd numbers | 
+| `24.cpp` | Sum of first N odd numbers |
 | `25.cpp` | Sum of squares of first N numbers |
-| `26.cpp` | Sum of cubes of first N numbers | 
-| `27.cpp` | Factorial calculation | 
+| `26.cpp` | Sum of cubes of first N numbers |
+| `27.cpp` | Factorial calculation |
 | `28.cpp` | Digit counter |
 | `29.cpp` | Prime number checker |
 | `30.cpp` | LCM calculation |
@@ -55,20 +55,4 @@
 | `40.cpp` | Armstrong number checker |
 | `41.cpp` | All Armstrong numbers under 1000 |
 
-<!-- ### 4. Pattern Printing Programs (42-55)
-| File | Description | Pattern Type |
-|------|-------------|--------------|
-| `42.cpp` | 4×5 grid with colored first column | Grid Pattern |
-| `43.cpp` | C-shaped pattern | Geometric Shape |
-| `44.cpp` | Same numbers per row grid | Number Grid |
-| `45.cpp` | Sequential numbers grid | Sequential Pattern |
-| `46.cpp` | Swastika-like geometric pattern | Complex Geometric |
-| `47.cpp` | Right-angled triangle with colors | Triangle Pattern |
-| `48.cpp` | Number triangle | Number Triangle |
-| `49.cpp` | Letter triangle | Alphabet Pattern |
-| `50.cpp` | Centered pyramid with colors | Centered Pyramid |
-| `51.cpp` | Decreasing triangle | Inverted Triangle |
-| `52.cpp` | Diamond-like pattern | Diamond Pattern |
-| `53.cpp` | Centered diamond with colors | Centered Diamond |
-| `54.cpp` | Number pyramid | Number Pyramid |
-| `55.cpp` | Hourglass/butterfly pattern | Complex Symmetrical | -->
+### 4. Pattern Printing Programs (42-55)
